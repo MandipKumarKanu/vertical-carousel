@@ -50,4 +50,4 @@ You can customize the carousel by modifying the CSS variables in `style.css`:
 - `--content-color`: Color for the card content.
 - `--box-shadow`: Shadow effect for the cards.
 
-## Live Preview: [**Live Demo URL**]https://mandipkumarkanu.github.io/vertical-carousel/
+## Live Preview: [**Live Demo**](https://mandipkumarkanu.github.io/vertical-carousel)
