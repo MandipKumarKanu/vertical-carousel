@@ -32,7 +32,7 @@ To run this project, you need a modern web browser that supports HTML5, CSS3, an
 2. Navigate to the project directory:
 
    ```bash
-   cd vertical-card-carousel
+   cd vertical-carousel
    ```
 
 3. Open `index.html` in your web browser to view the carousel.
@@ -49,3 +49,5 @@ You can customize the carousel by modifying the CSS variables in `style.css`:
 - `--gradient-1`, `--gradient-2`, `--gradient-3`: Colors for the background gradient.
 - `--content-color`: Color for the card content.
 - `--box-shadow`: Shadow effect for the cards.
+
+## Live Preview: [**Live Demo URL**]https://mandipkumarkanu.github.io/vertical-carousel/
